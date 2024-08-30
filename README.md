@@ -44,7 +44,7 @@ wget https://raw.githubusercontent.com/sipalingnode/nesa-miner/main/nesa-miner.s
 
 ## Cek Peer ID
 ```
-nano ~/.nesa/identity/peer_id.id
+nano ~/.nesa/identity/node_id.id
 ```
 ## Cek Status Node
 ```
