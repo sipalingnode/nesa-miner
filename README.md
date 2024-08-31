@@ -36,6 +36,7 @@ wget https://raw.githubusercontent.com/sipalingnode/nesa-miner/main/nesa-miner.s
 - Import Private Key (Pake Leap Wallet)
 - Pilih Non-Distributed Miner
 - Pilih Model (langsung enter aja)
+- Refferal Code `nesa156ldjw6exjrrhz44485q9wtumy3nj96j998nfg`
 - Paste Api Key Hugging Face
 - Lalu Pilih Yes
 - Done. Tinggal nunggu proses sampe selesai
